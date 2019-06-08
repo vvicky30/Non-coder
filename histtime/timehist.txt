@@ -1,0 +1,748 @@
+    1  080619 16:13:29ls
+    2  080619 16:13:29vi sum.sh
+    3  080619 16:13:29chmod 
+    4  080619 16:13:29chmod +x sum.sh
+    5  080619 16:13:29./sum.sh
+    6  080619 16:13:29firefox
+    7  080619 16:13:29vi multifold.sh
+    8  080619 16:13:29chmod +x multifold.sh
+    9  080619 16:13:29./multifold.sh
+   10  080619 16:13:29vi multifold.sh
+   11  080619 16:13:29chmod +x multifold.sh
+   12  080619 16:13:29./multifold
+   13  080619 16:13:29./multifold.sh
+   14  080619 16:13:29useradd theseus
+   15  080619 16:13:29mkdir hi
+   16  080619 16:13:29cd Desktop
+   17  080619 16:13:29mkdir hi
+   18  080619 16:13:29gedit hi.txt
+   19  080619 16:13:29touch hi.txt
+   20  080619 16:13:29rm hi
+   21  080619 16:13:29rm hi.txt
+   22  080619 16:13:29touch hi.txt
+   23  080619 16:13:29rm hi.txt
+   24  080619 16:13:29vi multifold.sh
+   25  080619 16:13:29ls
+   26  080619 16:13:29mkdir dre{1..3}
+   27  080619 16:13:29pwd
+   28  080619 16:13:29touch /
+   29  080619 16:13:29touch -v ved.txt
+   30  080619 16:13:29touch --help
+   31  080619 16:13:29hmcfghymcfyhjkgtitccgcdbgsgbdssgsgvcd
+   32  080619 16:13:29bc
+   33  080619 16:13:293
+   34  080619 16:13:29ls -f
+   35  080619 16:13:29pwd
+   36  080619 16:13:29ls
+   37  080619 16:13:29cd desktop
+   38  080619 16:13:29cd Desktop
+   39  080619 16:13:29cd ..
+   40  080619 16:13:29cd Desktop/
+   41  080619 16:13:29cd
+   42  080619 16:13:29cd ..
+   43  080619 16:13:29 cd vedantbhatt
+   44  080619 16:13:29cd desktop
+   45  080619 16:13:29cd Desktop/
+   46  080619 16:13:29mkdir dre
+   47  080619 16:13:29mkdir dre{1..2}
+   48  080619 16:13:29mkdir dre{0..2}
+   49  080619 16:13:29rmdir dre{0..2}
+   50  080619 16:13:29date
+   51  080619 16:13:29date --help
+   52  080619 16:13:29date %d
+   53  080619 16:13:29date %D
+   54  080619 16:13:29date  +%D
+   55  080619 16:13:29date  +%d
+   56  080619 16:13:29date  +%z
+   57  080619 16:13:29date  +%N
+   58  080619 16:13:29date  +%r
+   59  080619 16:13:29rmdir dre
+   60  080619 16:13:29mkdir dre
+   61  080619 16:13:29mkdir dre/drejunior
+   62  080619 16:13:29rmdir dre
+   63  080619 16:13:29cd dre
+   64  080619 16:13:29ls
+   65  080619 16:13:29mkdir dre/drejunior
+   66  080619 16:13:29cd ..
+   67  080619 16:13:29gedit ved.txt
+   68  080619 16:13:29ls
+   69  080619 16:13:29dre3
+   70  080619 16:13:29vi dre3
+   71  080619 16:13:29vi dre
+   72  080619 16:13:29rmdir dre
+   73  080619 16:13:29 cd Desktop
+   74  080619 16:13:29vi dre
+   75  080619 16:13:29cd Desktop
+   76  080619 16:13:29rm -r dre
+   77  080619 16:13:29mkdir a/b/c.txt
+   78  080619 16:13:29mkdir a/b/c
+   79  080619 16:13:29mkdir --help 
+   80  080619 16:13:29mkdir -p a/b/c.txt 
+   81  080619 16:13:29rmdir -r a/b/c.txt
+   82  080619 16:13:29rm -r a/b/c.txt
+   83  080619 16:13:29 vi a
+   84  080619 16:13:29pwd
+   85  080619 16:13:29rm -rv a/b
+   86  080619 16:13:29rm -r-v a/b
+   87  080619 16:13:29rm -rv a/b
+   88  080619 16:13:29cd Desktop
+   89  080619 16:13:29rm -rv a/b
+   90  080619 16:13:29ls
+   91  080619 16:13:29rm a
+   92  080619 16:13:29rmdir a
+   93  080619 16:13:29touch a.txt{1..3}
+   94  080619 16:13:29touch a{1..3}
+   95  080619 16:13:29rm a{1..3}
+   96  080619 16:13:29rm --help
+   97  080619 16:13:29edceawdcedfewdq3wcqwacdewddsfsdgfegvs
+   98  080619 16:13:29rm --helpdcdxcdxac adsvc dv
+   99  080619 16:13:29dxdxdxcdscsxdc;
+  100  080619 16:13:29ds,cv
+  101  080619 16:13:29ad;4cdcv, dx;
+  102  080619 16:13:29c, adx;
+  103  080619 16:13:29cd Desktop/
+  104  080619 16:13:29su - Root
+  105  080619 16:13:29su - root
+  106  080619 16:13:29cd Desktop/
+  107  080619 16:13:29rmdir -r dre
+  108  080619 16:13:29rmdir --help
+  109  080619 16:13:29rm --help
+  110  080619 16:13:29gthtghd
+  111  080619 16:13:29vbfxcvl[d,xv[dv',dzxv,dlvcff
+  112  080619 16:13:29fxgbfxgbxfdbg
+  113  080619 16:13:29fxbgxfdgbcd
+  114  080619 16:13:29bxfbf
+  115  080619 16:13:29fgrwgerwgrw
+  116  080619 16:13:29mkdir theseus
+  117  080619 16:13:29rmdir theseus
+  118  080619 16:13:29cd Desktop
+  119  080619 16:13:29mkdir theseus
+  120  080619 16:13:29mk --help
+  121  080619 16:13:29mkdir --help
+  122  080619 16:13:29mkdir -m dre
+  123  080619 16:13:29mkdir -m=txt dre
+  124  080619 16:13:29mkdir dre/junior
+  125  080619 16:13:29rmdir dre
+  126  080619 16:13:29mkdir a/b/c/d
+  127  080619 16:13:29mkdir -p a
+  128  080619 16:13:29mkdir a/b
+  129  080619 16:13:29mkdir n/a/b
+  130  080619 16:13:29mkdir a/b
+  131  080619 16:13:29mkdir a/b/c
+  132  080619 16:13:29mkdir p/q/r/s
+  133  080619 16:13:29mkdir p/q/r/s/
+  134  080619 16:13:29mkdir p/q
+  135  080619 16:13:29mkdir l/h/t
+  136  080619 16:13:29mkdir -p p
+  137  080619 16:13:29mkdir  p/q/r
+  138  080619 16:13:29mkdir  p/q
+  139  080619 16:13:29mkdir  p/q/r
+  140  080619 16:13:29mkdir  p/q/r/s/t/w/q
+  141  080619 16:13:29mkdir  p/q/r/s/t
+  142  080619 16:13:29mkdir  p/q/r/s/
+  143  080619 16:13:29mkdir  p/q/r/s/t
+  144  080619 16:13:29mkdir  p/q/r/s/t/r
+  145  080619 16:13:29rmdir p/q/r/s/t/r
+  146  080619 16:13:29rmdir p/q/
+  147  080619 16:13:29rmdir p/q/r/s/t
+  148  080619 16:13:29rmdir p/q/r/s
+  149  080619 16:13:29rmdir p/q/r
+  150  080619 16:13:29rmdir p/q
+  151  080619 16:13:29rmdir p
+  152  080619 16:13:29mkdir  p/q/r/s/t
+  153  080619 16:13:29mkdir p
+  154  080619 16:13:29mkdir p/q
+  155  080619 16:13:29mkdir p/q/r
+  156  080619 16:13:29rm p/q/r
+  157  080619 16:13:29rm -r p/q/r
+  158  080619 16:13:29rm -r p
+  159  080619 16:13:29rm --help 
+  160  080619 16:13:29mkdir p/q
+  161  080619 16:13:29mkdir p
+  162  080619 16:13:29mkdir p/q
+  163  080619 16:13:29rm -i p
+  164  080619 16:13:29rm -ir p
+  165  080619 16:13:29mkdir p/q
+  166  080619 16:13:29mkdir p
+  167  080619 16:13:29mkdir p/q
+  168  080619 16:13:29rm -I p/q
+  169  080619 16:13:29rm -Ir p/q
+  170  080619 16:13:29rm -r p/q
+  171  080619 16:13:29rm  p/q
+  172  080619 16:13:29rm  -ri p/q
+  173  080619 16:13:29rm  -ir p/q
+  174  080619 16:13:29rm -Ir p
+  175  080619 16:13:29mkdir p
+  176  080619 16:13:29mkdir p/q
+  177  080619 16:13:29rm -ri p
+  178  080619 16:13:29mkdir -v theseus1
+  179  080619 16:13:29mkdir -v theseus1/t
+  180  080619 16:13:29rm -f theseus1
+  181  080619 16:13:29rmdir -f theseus1
+  182  080619 16:13:29rm -fr theseus1
+  183  080619 16:13:29cd 
+  184  080619 16:13:29multifold.sh
+  185  080619 16:13:29vi multifold.sh
+  186  080619 16:13:29cp --help
+  187  080619 16:13:29cp -a... -t theseus Desktop
+  188  080619 16:13:29cp -a... -t theseus Desktop...
+  189  080619 16:13:29cp -a -t theseus Desktop...
+  190  080619 16:13:29ls
+  191  080619 16:13:29cp -a -t dre Desktop...
+  192  080619 16:13:29cp -a dre 
+  193  080619 16:13:29cp -a dre Desktop
+  194  080619 16:13:29cp --help
+  195  080619 16:13:29cp -a hi
+  196  080619 16:13:29ls
+  197  080619 16:13:29cp -a -t  hi
+  198  080619 16:13:29cp -a   hi Desktop
+  199  080619 16:13:29cp -a multi.sh desktop
+  200  080619 16:13:29cp --help
+  201  080619 16:13:29cd desktop
+  202  080619 16:13:29cd Desktop
+  203  080619 16:13:29touch anne
+  204  080619 16:13:29touch anne.ttt
+  205  080619 16:13:29touch anne.txt
+  206  080619 16:13:29touch --help
+  207  080619 16:13:29touch -d=vedant anne.txt
+  208  080619 16:13:29touch -d=2/5/2019 anne.txt
+  209  080619 16:13:29touch -d=2 anne.txt
+  210  080619 16:13:29rm anne.tt
+  211  080619 16:13:29rm anne.ttt
+  212  080619 16:13:29rm anne.txt
+  213  080619 16:13:29rm anne
+  214  080619 16:13:29whoami
+  215  080619 16:13:29pwd
+  216  080619 16:13:29python3
+  217  080619 16:13:29mkdir /home/kk
+  218  080619 16:13:29mkdir /Desktop/kk
+  219  080619 16:13:29mkdir /root/kk
+  220  080619 16:13:29cd
+  221  080619 16:13:29mkdir /Desktop/kk
+  222  080619 16:13:29cd Desktop
+  223  080619 16:13:29date
+  224  080619 16:13:29date --help 
+  225  080619 16:13:29cal
+  226  080619 16:13:29cal 1754 9
+  227  080619 16:13:29cal 9 1754 
+  228  080619 16:13:29cal  1754 
+  229  080619 16:13:29cal 9 1752
+  230  080619 16:13:29cal --help
+  231  080619 16:13:29cal -y
+  232  080619 16:13:29cal -v
+  233  080619 16:13:29cal -j 2019
+  234  080619 16:13:29cal -j 1752
+  235  080619 16:13:29bc
+  236  080619 16:13:29 dcdc
+  237  080619 16:13:29uname
+  238  080619 16:13:29uname -r
+  239  080619 16:13:29strace gedit
+  240  080619 16:13:2956c c c 
+  241  080619 16:13:29whoami
+  242  080619 16:13:29gedit /etc/shell
+  243  080619 16:13:29gedit /etc/shells
+  244  080619 16:13:29/etc/shells
+  245  080619 16:13:29gedit /etc/shells
+  246  080619 16:13:29cat /etc/shells
+  247  080619 16:13:29gedit /home/vedantbhatt/bash.rc
+  248  080619 16:13:29gedit /home/vedantbhatt/.bash.rc
+  249  080619 16:13:29gedit /home/vedantbhatt/.bashrc
+  250  080619 16:13:29d
+  251  080619 16:13:29gedit /home/vedantbhatt/.bashrc
+  252  080619 16:13:29d
+  253  080619 16:13:29gedit /home/vedantbhatt/.bashrc
+  254  080619 16:13:29source /home/vedantbhatt/.bashrc
+  255  080619 16:13:29gedit /home/vedantbhatt/.bashrc
+  256  080619 16:13:29alias -a
+  257  080619 16:13:29alias d = 'date'
+  258  080619 16:13:29alias c='date'
+  259  080619 16:13:29c
+  260  080619 16:13:29gedit /home/vedantbhatt/.bashrc
+  261  080619 16:13:29d
+  262  080619 16:13:29c
+  263  080619 16:13:29date
+  264  080619 16:13:29c
+  265  080619 16:13:29gedit /home/vedantbhatt/.bashrc
+  266  080619 16:13:29d
+  267  080619 16:13:29ved()( pwd)
+  268  080619 16:13:29ved
+  269  080619 16:13:29ved() ved(){
+  270  080619 16:13:29ved(){pwd whoami}
+  271  080619 16:13:29ved(){ pwd whoami }; ved(0
+  272  080619 16:13:29ved() ved
+  273  080619 16:13:29ved
+  274  080619 16:13:29ved(){ pwd whoami date }; 
+  275  080619 16:13:29ved
+  276  080619 16:13:29v() { date; pwd; whoami; }
+  277  080619 16:13:29v
+  278  080619 16:13:29touch /home/vedantbhatt/template/createfile
+  279  080619 16:13:29touch /home/vedantbhatt/templates/createfile
+  280  080619 16:13:29touch /home/vedantbhatt/Templates/createfile
+  281  080619 16:13:29chmod +x a.sh
+  282  080619 16:13:29cd Desktop
+  283  080619 16:13:29chmod +x a.sh
+  284  080619 16:13:29./a.sh
+  285  080619 16:13:29chmod +x a.sh
+  286  080619 16:13:29cd DEsktop
+  287  080619 16:13:29cd Desktop
+  288  080619 16:13:29chmod +x a.sh
+  289  080619 16:13:29./a.sh
+  290  080619 16:13:29gedit  /home/vedantbhatt/.bashrc
+  291  080619 16:13:29source /home/vedantbhatt/.bashrc
+  292  080619 16:13:29exit
+  293  080619 16:13:29d
+  294  080619 16:13:29p
+  295  080619 16:13:29gnome --help
+  296  080619 16:13:29gnome  terminal
+  297  080619 16:13:29ginome terminal
+  298  080619 16:13:29ginome -terminal
+  299  080619 16:13:29gnome -terminal
+  300  080619 16:13:29gnome-terminal
+  301  080619 16:13:29gnome --help
+  302  080619 16:13:29gnome
+  303  080619 16:13:29gnome -v
+  304  080619 16:13:29gnome-help
+  305  080619 16:13:29tput setab 3
+  306  080619 16:13:29clear screen
+  307  080619 16:13:29top
+  308  080619 16:13:29history
+  309  080619 16:13:29cat/etc/shells
+  310  080619 16:13:29cat /etc/shells
+  311  080619 16:13:29echo $SHELL
+  312  080619 16:13:29clear
+  313  080619 16:13:29date
+  314  080619 16:13:29echo $/
+  315  080619 16:13:29echo $?
+  316  080619 16:13:29vedant
+  317  080619 16:13:29echo $?
+  318  080619 16:13:29ps1=vedant
+  319  080619 16:13:29ps1
+  320  080619 16:13:29ps1='vedant'
+  321  080619 16:13:29PS1="theseus"
+  322  080619 16:13:29PS1="theseus-->"
+  323  080619 16:13:29PS1
+  324  080619 16:13:29PS1=help
+  325  080619 16:13:29PS1="theseus-->"
+  326  080619 16:13:29alias d="date"
+  327  080619 16:13:29d
+  328  080619 16:13:29alias c="date"
+  329  080619 16:13:29c
+  330  080619 16:13:29alias d="date"
+  331  080619 16:13:29d
+  332  080619 16:13:29h="date"
+  333  080619 16:13:29h
+  334  080619 16:13:29gedit bash.rc
+  335  080619 16:13:29gedit .bashrc
+  336  080619 16:13:29source .bashrc
+  337  080619 16:13:29wh
+  338  080619 16:13:29gnome -terminal
+  339  080619 16:13:29gnome-terminal
+  340  080619 16:13:29PS1=wh
+  341  080619 16:13:29PS1="wh"
+  342  080619 16:13:29PS1="whoami"
+  343  080619 16:13:29PS1=user
+  344  080619 16:13:29whoami
+  345  080619 16:13:29PS1="theseus"
+  346  080619 16:13:29PS1=''whoami
+  347  080619 16:13:29exit
+  348  080619 16:13:29echo $PS1
+  349  080619 16:13:29python
+  350  080619 16:13:29vi op.sh
+  351  080619 16:13:29chmod +x op.sh
+  352  080619 16:13:29pyhon
+  353  080619 16:13:29./op.sh
+  354  080619 16:13:29vi op.sh
+  355  080619 16:13:29chmod +x op.sh
+  356  080619 16:13:29./op.sh
+  357  080619 16:13:29vi op.sh
+  358  080619 16:13:29chmod +x op.sh
+  359  080619 16:13:29./op.sh
+  360  080619 16:13:29./op.sh
+  361  080619 16:13:29vi op.sh
+  362  080619 16:13:29chmod +x op.sh
+  363  080619 16:13:29./op.sh
+  364  080619 16:13:29vi op.sh
+  365  080619 16:13:29./op.sh
+  366  080619 16:13:29vi op.sh
+  367  080619 16:13:29chmod +x op.sh
+  368  080619 16:13:29./op.sh
+  369  080619 16:13:29./op.sh
+  370  080619 16:13:29vi op.sh
+  371  080619 16:13:29chmod +x op.sh
+  372  080619 16:13:29./op.sh
+  373  080619 16:13:29wq
+  374  080619 16:13:29vi op.sh
+  375  080619 16:13:29./op.sh
+  376  080619 16:13:29vi op.sh
+  377  080619 16:13:29./op.sh
+  378  080619 16:13:29vi op.sh
+  379  080619 16:13:29./op.sh
+  380  080619 16:13:29vi op.sh
+  381  080619 16:13:29./op.sh
+  382  080619 16:13:29vi op.sh
+  383  080619 16:13:29env
+  384  040619 23:14:42mkdir a
+  385  040619 23:14:47mkdir a/c
+  386  040619 23:14:51mkdir a/c/d
+  387  040619 23:15:13rm --help
+  388  040619 23:15:46rm a/b/d
+  389  040619 23:16:27rm -r a
+  390  040619 23:16:38mkdir a/
+  391  040619 23:16:41mkdir a/b
+  392  040619 23:16:44mkdir a/b/c
+  393  040619 23:17:09rm -r a/b/c
+  394  040619 23:19:10rmdir a
+  395  040619 23:19:25rmdir --help 
+  396  040619 23:20:12rm -r a
+  397  040619 23:20:19cd Desktop
+  398  040619 23:20:30mkdir a/b/c
+  399  040619 23:20:35mkdir a/
+  400  040619 23:22:28mkdir a/b
+  401  040619 23:22:34mkdir a/b/c
+  402  040619 23:23:02rmdir -i a
+  403  040619 23:23:13rmdir --i a
+  404  040619 23:24:57echo $HISTIME
+  405  040619 23:25:22echo $HISTTIME
+  406  040619 23:25:35echo $bdcbhdgf
+  407  040619 23:26:15HISTTIME="%d/%m/%y %T"
+  408  040619 23:26:21history
+  409  040619 23:26:27HISTIME="%d/%m/%y %T"
+  410  040619 23:26:30history
+  411  040619 23:26:44$HISTTIME="%d/%m/%y %T"
+  412  040619 23:26:51$HISTIME="%d/%m/%y %T"
+  413  040619 23:28:03export HISTTIMEFORMAT='%D %t %T '
+  414  040619 23:28:09history
+  415  040619 23:29:50mkdir aaa
+  416  040619 23:28:37$HISTIMEFORMAT="%d/%m/%y %T"
+  417  040619 23:28:44HISTTIMEFORMAT="%d/%m/%y %T"
+  418  040619 23:28:47history
+  419  040619 23:29:09echo $HISTTIMEFORMAT
+  420  040619 23:29:39echo $HISTTIME
+  421  040619 23:30:08HISTTIMEFORMAT=""
+  422  040619 23:30:14echo $HISTTIMEFORMAT
+  423  040619 23:30:20history
+  424  040619 23:30:26echo $HISTTIMEFORMAT
+  425  040619 23:31:16echo $HISTSIZE
+  426  040619 23:31:42echo $HISTSIZE=2000
+  427  040619 23:32:29echo $HISTSIZE
+  428  040619 23:33:07HISTSIZE=2000
+  429  040619 23:33:13echo $HISTSIZE
+  430  040619 23:37:55echo $HISTTIME
+  431  040619 23:38:04echo $HISTTIMEFORMAT
+  432  040619 23:39:12echo $HISTDATEFORMAT
+  433  040619 23:41:33echo HISTTIMEFORMAT="%d/%m/%y  %T"
+  434  040619 23:41:44 HISTTIMEFORMAT="%d/%m/%y  %T"
+  435  040619 23:41:54HISTTIMEFORMAT
+  436  040619 23:42:05echo $HISTTIMEFORMAT
+  437  040619 23:47:05history
+  438  040619 23:57:09echo $HISTSIZE
+  439  040619 23:58:58HISTSIZE=2000
+  440  040619 23:59:01echo $HISTSIZE
+  441  050619 00:02:02history
+  442  050619 00:02:24$HISTTIMEFORMAT=""
+  443  050619 00:02:30history
+  444  050619 00:02:36$HISTTIMEFORMAT=" "
+  445  050619 00:02:44HISTTIMEFORMAT=" "
+  446  050619 00:02:50history
+  447  050619 00:05:28source .bash_history
+  448  050619 00:05:40#mkdir wolf
+  449  050619 00:05:56mkdir wulf
+  450  080619 16:13:29source .bash_history
+  451  080619 16:13:29date
+  452  080619 16:13:29uptime
+  453  080619 16:13:29scriptreplay shell class.txt
+  454  080619 16:13:29exit
+  455  080619 16:13:29date
+  456  080619 16:13:29uptime
+  457  080619 16:13:29mkdir hh
+  458  080619 16:13:29exit
+  459  080619 16:13:29date
+  460  080619 16:13:29d
+  461  080619 16:13:29echo "vedant bhatt"
+  462  080619 16:13:29exit
+  463  080619 16:13:29source -help
+  464  080619 16:13:29script
+  465  080619 16:13:29script -t 2>shell class.txt
+  466  080619 16:13:29scriptreplay shell class.txt
+  467  080619 16:13:29script -t 2>shell movie
+  468  080619 16:13:29scriptreplay shell movie
+  469  080619 16:13:29touch -hi.txt
+  470  080619 16:13:29cd Desktop
+  471  080619 16:13:29touch ved
+  472  080619 16:13:29touch -ved
+  473  080619 16:13:29touch -"ved"
+  474  080619 16:13:29touch --help
+  475  080619 16:13:29touch -h -ved
+  476  080619 16:13:29touch "ved"
+  477  080619 16:13:29ls
+  478  080619 16:13:29touch "sf"
+  479  080619 16:13:29ls
+  480  080619 16:13:29touch "-sf"
+  481  080619 16:13:29touch " -sf"
+  482  080619 16:13:29cat -sf
+  483  080619 16:13:29cat --help 
+  484  080619 16:13:29touch -"sf"
+  485  080619 16:13:29touch () dghdgthdgth
+  486  080619 16:13:29touch -v
+  487  080619 16:13:29touch -v hh
+  488  080619 16:13:29touch -v "hh"
+  489  080619 16:13:29touch -v
+  490  080619 16:13:29touch --help
+  491  080619 16:13:29touch -c -sidh
+  492  080619 16:13:29touch -c  -sidh
+  493  080619 16:13:29touch -c sidh
+  494  080619 16:13:29ls
+  495  080619 16:13:29touch --sidharth
+  496  080619 16:13:29touch - -sidharth
+  497  080619 16:13:29touch -- "hh"
+  498  080619 16:13:29ls
+  499  080619 16:13:29touch -- "-hh"
+  500  080619 16:13:29ls
+  501  080619 16:13:29gedit -hh
+  502  080619 16:13:29touch -- "-subh"
+  503  080619 16:13:29ls
+  504  080619 16:13:29gedit -subh
+  505  080619 16:13:29rm -- -subh
+  506  080619 16:13:29ls
+  507  080619 16:13:29touch -- -subh
+  508  080619 16:13:29ls
+  509  080619 16:13:29gedit -- -subh
+  510  080619 16:13:29clear
+  511  080619 16:13:29touch ./-sidh
+  512  080619 16:13:29ls
+  513  080619 16:13:29gedit ./-sidh 
+  514  080619 16:13:29rm ./-sidh
+  515  080619 16:13:29ls
+  516  080619 16:13:29touch -a hid
+  517  080619 16:13:29ls
+  518  080619 16:13:29touch --help
+  519  080619 16:13:29clear
+  520  080619 16:13:29stat hid
+  521  080619 16:13:29touch -a hid
+  522  080619 16:13:29stat hid
+  523  080619 16:13:29touch -m hid
+  524  080619 16:13:29stat hid
+  525  080619 16:13:29ls
+  526  080619 16:13:29rm -subh
+  527  080619 16:13:29rm ./-subh
+  528  080619 16:13:29ls
+  529  080619 16:13:29gedit .bashrc
+  530  080619 16:13:29echo $
+  531  080619 16:13:29echo $HISTSIZE
+  532  080619 16:13:29source .bashrc
+  533  080619 16:13:29echo $HISTSIZE
+  534  080619 16:13:29ls
+  535  080619 16:13:29gedit .bashrc
+  536  080619 16:13:29ls
+  537  080619 16:13:29cd
+  538  080619 16:13:29ls
+  539  080619 16:13:29cd movie
+  540  080619 16:13:29gedit movie
+  541  080619 16:13:29touch --ved
+  542  080619 16:13:29touch -- -ved
+  543  080619 16:13:29ls
+  544  080619 16:13:29rm -- -ved
+  545  080619 16:13:29ls
+  546  080619 16:13:29gcc
+  547  080619 16:13:29python3
+  548  080619 16:13:29 cat /etc/os-release
+  549  080619 16:13:29gcc 
+  550  080619 16:13:29`bg
+  551  080619 16:13:29jghjmghyjmfhyjndgynjtdgnhdtclear
+  552  080619 16:13:29clear
+  553  080619 16:13:29 cat /etc/os-release
+  554  080619 16:13:29PATH
+  555  080619 16:13:29echo $PATh
+  556  080619 16:13:29echo $PATH
+  557  080619 16:13:29which date
+  558  080619 16:13:29which gcc
+  559  080619 16:13:29date in PATH
+  560  080619 16:13:29date in 
+  561  080619 16:13:29clear
+  562  080619 16:13:29history
+  563  080619 16:13:29clear
+  564  080619 16:13:29cd Desktop
+  565  080619 16:13:29vi movie
+  566  080619 16:13:29rm movie
+  567  080619 16:13:29scriptreplay 
+  568  080619 16:13:29scriptreplay shell movie
+  569  080619 16:13:29cd
+  570  080619 16:13:29scriptreplay shell movie
+  571  080619 16:13:29cd Desktop
+  572  080619 16:13:29mkdir HELLO
+  573  080619 16:13:29vi HELLO
+  574  080619 16:13:29cd DEsktop
+  575  080619 16:13:29cd Desktop
+  576  080619 16:13:29echo "its" >ok.txt
+  577  080619 16:13:29cat ok.txt
+  578  080619 16:13:29date >>ok.txt
+  579  080619 16:13:29cat ok.txt
+  580  080619 16:13:29history
+  581  080619 16:13:29clear
+  582  080619 16:13:29echo $date
+  583  080619 16:13:29echo $DATE
+  584  080619 16:13:29python3
+  585  080619 16:13:29echo $?
+  586  080619 16:13:29date
+  587  080619 16:13:29echo $?
+  588  080619 16:13:29ved.py
+  589  080619 16:13:29gedit ved.py
+  590  080619 16:13:29chmod +x ved.py
+  591  080619 16:13:29 ./ved.py
+  592  080619 16:13:29gedit ved.py
+  593  080619 16:13:29python3 ved.py 
+  594  080619 16:13:29ved.py >>ok.txt
+  595  080619 16:13:29 python3 ved.py >>ok.txt
+  596  080619 16:13:29wc --help
+  597  080619 16:13:29wc -c ok.txt
+  598  080619 16:13:29wc -m ok.txt
+  599  080619 16:13:29wc -l ok.txt
+  600  080619 16:13:29grep its ok.txt
+  601  080619 16:13:29cat >>ok.txt
+  602  080619 16:13:29cat ok.txt
+  603  080619 16:13:29grep its ok.txt
+  604  080619 16:13:29cat >>ok.txt
+  605  080619 16:13:29grep its ok.txt
+  606  080619 16:13:29grep -w its ok.txt
+  607  080619 16:13:29cal RAM
+  608  080619 16:13:29RAm
+  609  080619 16:13:29ram
+  610  080619 16:13:29cal | wc -l
+  611  080619 16:13:29date | wc -l
+  612  080619 16:13:29date | wc -m
+  613  080619 16:13:29date | wc -c
+  614  080619 16:13:29cal | grep Tu
+  615  080619 16:13:29cal | grep Tu |grep -i tu | grep 1
+  616  080619 16:13:29cal | grep Tu |grep -i tu 
+  617  080619 16:13:29cal | grep Tu | grep we
+  618  080619 16:13:29cal | grep Tu | grep WE
+  619  080619 16:13:29cal | grep Tu | grep We
+  620  080619 16:13:29cal | -2head
+  621  080619 16:13:29cal | -2 head
+  622  080619 16:13:29cal | head -2
+  623  080619 16:13:29cal | tail -2
+  624  080619 16:13:29cal
+  625  080619 16:13:29cal | head -3 | tail -4
+  626  080619 16:13:29cal | head -3
+  627  080619 16:13:29cal | head -3 | tail -1
+  628  080619 16:13:29cd
+  629  080619 16:13:29ipconfig
+  630  080619 16:13:29su -root
+  631  080619 16:13:29su - root
+  632  080619 16:13:29python3
+  633  080619 16:13:29su - root
+  634  080619 16:13:29chmod +x ved.py
+  635  080619 16:13:29cd Desktop
+  636  080619 16:13:29chmod +x ved.py
+  637  080619 16:13:29./ved.py
+  638  080619 16:13:29pwd ved.py'/
+  639  080619 16:13:29chmod +x ved.py
+  640  080619 16:13:29./ved.py
+  641  080619 16:13:29gedit ved.py 
+  642  080619 16:13:29chmod +x ved.py
+  643  080619 16:13:29gedit ved.py 
+  644  080619 16:13:29chmod +x ved.py
+  645  080619 16:13:29./ved.py
+  646  080619 16:13:29gedit ved.py clear
+  647  080619 16:13:29chmod +x ved.py
+  648  080619 16:13:29./ved.py
+  649  080619 16:13:29festival
+  650  080619 16:13:29echo "theseus" | festivals --tts
+  651  080619 16:13:29echo "theseus" | festival --tts
+  652  080619 16:13:29echo "theseus is god" | festival --tts
+  653  080619 16:13:29firefox
+  654  080619 16:13:29date
+  655  080619 16:13:29which date
+  656  080619 16:13:29su - root
+  657  080619 16:13:29ls
+  658  080619 16:13:29ls ldi hh
+  659  080619 16:13:29cd hh
+  660  080619 16:13:29ls ldi hh
+  661  080619 16:13:29ls -ldi hh
+  662  080619 16:13:29su - root
+  663  080619 16:13:29cd dd
+  664  080619 16:13:29cd /home/dd
+  665  080619 16:13:29ls
+  666  080619 16:13:29su - root
+  667  080619 16:13:29ls
+  668  080619 16:13:29cd ..
+  669  080619 16:13:29ls
+  670  080619 16:13:29cd ..
+  671  080619 16:13:29ls
+  672  080619 16:13:29ls -ldi /ss
+  673  080619 16:13:29cd /ss
+  674  080619 16:13:29mkdir gg
+  675  080619 16:13:29sudo mkdir ss
+  676  080619 16:13:29sudo su - root
+  677  080619 16:13:29cd
+  678  080619 16:13:29history
+  679  080619 16:13:29clear
+  680  080619 16:13:29sxc zdxcdscsxcsxcxsxxcszzdvdsvdsvcsdvdsvd
+  681  080619 16:13:29cd /dd
+  682  080619 16:13:29ls
+  683  080619 16:13:29dre
+  684  080619 16:13:29cd /dre
+  685  080619 16:13:29cd dre
+  686  080619 16:13:29cd hh
+  687  080619 16:13:29cd
+  688  080619 16:13:29su - root
+  689  080619 16:13:29d
+  690  080619 16:13:29bg
+  691  080619 16:13:29date
+  692  080619 16:13:29d
+  693  080619 16:13:29inode --help
+  694  080619 16:13:29Inode --help
+  695  080619 16:13:29inode
+  696  080619 16:13:29echo dgk >snoop.txt
+  697  080619 16:13:29rm -r snoop.txt
+  698  080619 16:13:29cd Desktop
+  699  080619 16:13:29echo dgk >snoop.txt
+  700  080619 16:13:29ls -i snoop.txt
+  701  080619 16:13:29ls -l snoop.txt
+  702  080619 16:13:29ls -ld snoop.txt
+  703  080619 16:13:29ls -i snoop.txt
+  704  080619 16:13:29ls -l snoop.txt
+  705  080619 16:13:29ls -ldi snoop.txt
+  706  080619 16:13:29mkdir dd
+  707  080619 16:13:29rm -r dd
+  708  080619 16:13:29su - root
+  709  080619 16:13:29date
+  710  080619 16:13:29su - root
+  711  080619 16:13:29cd Desktop
+  712  080619 16:13:29vim 
+  713  080619 16:13:29vim datatime.py
+  714  080619 16:13:29python3 datatime.py
+  715  080619 16:13:29vim datatime.py
+  716  080619 16:13:29python3 datatime.py
+  717  080619 16:13:29mkdir okk
+  718  080619 16:13:29ls -ld okk/
+  719  080619 16:13:29umask
+  720  080619 16:13:29pip3
+  721  080619 16:13:29pip3.6 install git
+  722  080619 16:13:29pip insatll --upgrade pip
+  723  080619 16:13:29sudo -i
+  724  080619 16:13:29pip3 insatll git* -y
+  725  080619 16:13:29pip3 install git* -y
+  726  080619 16:13:29pip3 install git* 
+  727  080619 16:13:29pip --help
+  728  080619 16:13:29pip3 --help
+  729  080619 16:13:29pip install git
+  730  080619 16:13:29clear
+  731  080619 16:13:29su - root
+  732  080619 16:13:29which history
+  733  080619 16:13:29ls 
+  734  080619 16:13:29ls
+  735  080619 16:13:29gedit .bashrc_history
+  736  080619 16:13:29ls -a 
+  737  080619 16:13:29cat .bash_history
+  738  080619 16:13:29history
+  739  080619 16:14:30HISTTIMEFORMAT="%d%m%y %T"
+  740  080619 16:14:44echo  $HISTTIMEFORMAT="%d%m%y %T"
+  741  080619 16:14:57echo  $HISTTIMEFORMAT
+  742  080619 16:15:04history
+  743  080619 16:15:39clear
+  744  080619 16:16:19history >timehist.txt
+  745* 080619 16:16:41
+  746  080619 16:20:29ls -a 
+  747* 080619 16:21:00
+  748  080619 16:22:24history >timehist.txt
