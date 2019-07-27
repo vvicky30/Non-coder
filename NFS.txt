@@ -1,0 +1,180 @@
+nfs    network file system [for sharing directories with other clients ]so we can't tell which
+port it is using and aws has a firewall before entering to os[we don't know port how we'll
+tell aw
+nfs do problem with aws
+
+
+nfs don't work with single port and single service
+nfs pick port randomly for some services 
+works on unix
+$ssh ec2-user@IPoftarget -i adhocnv.pem
+#yum install bash-completion
+tab completion is given by bash-completion [command double tab -get options]
+#bash 
+#yum install nfs-utils -y
+#systemctl status nfs    
+We'll start the service of nfs by systemctl
+#systemctl start nfs-server
+#systemctl enable nfs-server.service
+OR
+#systemctl enable nfs-server
+#mkdir /nfs
+#whereis /*nfs  -----to see where is cong file
+[making directory in / so that we don't have to provide path access]
+To export directory : use exports
+
+#rpm -q nfs-utils
+#rpm -qc nfs-utils                -----to see where is cong file
+
+# vi /etc/nfs.conf
+:q
+
+
+
+/nfs	IPofclient
+but if we don't know the ip of client
+/nfs         *(filesystem)
+
+filesystem = READONLY --(ro)
+	     READWRITE
+
+vi /etc/exports
+.......................................
+/nfs	*(ro)
+:wq
+.......................................
+
+damon do entry using systemctl
+To update the changes in export file do
+#exportfs -r
+securitygroup>addrule ------------- we don't know which port nfs will use
+customtcp = All traffic
+TCP = All
+Anywhere
+save
+#showmount -e public-IP of our os
+what the server has shared
+o/p /nfs*        [if you have given the IP then Ip will be shown]
+......................................................................................till here of server side
+Client side:
+
+
+Make a client instance with which you want to share your directory
+$ssh -i adhocnv.pem ec2-user@IPofserver
+yes
+#yum install nfs-utils
+[So that we can use nfs file system]
+client shouls also have nfs-utils
+No need of starting any service at client side
+#yum install bash-completion
+#bash
+#showmount -e privateIPofserver
+If error come than try:
+#iptables -F
+#systemctl restart nfs
+
+If we keep Ip same -- we are both Server and client than o/p will come definetly
+
+#showmount -e IP
+We have to mount this directory
+#mkdir /mnt/nfs -----------we are mounting at this location
+#mount 172.31.45.242:/nfs /mnt/nfs/
+IP of server
+#df -hT ------to show the mount files
+server is serving nfs
+#cd /mnt/nfs
+#ls
+#mkdir tt
+ERROR : READONLY
+but server can create
+To make changes persistent:
+vi /etc/fstab
+IPofServer:/nfs /mnt/nfs   nfs  _netdev 0 0
+:wq
+# default: whether or not get IP it will mount [for device]
+# netdev: when IP is to be found over the network
+#mount -a
+#df
+
+..............................................................................................
+Server side: But server can create 
+And client can see the changed content
+#cd /nfs
+#mkdir lk
+#touch a.txt
+#vi a.txt
+.....................................................................................
+#ls
+a.txt
+cat a.txt ---------------------------- client can see the updated changes in directory shared by 
+the server
+++++++++++If the client has write priviledge then client can write data as much as the
+size of server, if size of server gets full client cannot write more data in directory+++
+Directory get its size from /
+//////////////////////////////////////////////////////////////////////////////////////
+Working with read-write permissions of nfs:
+Server Side:
+We have make link between two OS for sharing data
+#ls -ld /nfs
+The user[may be root of its own system] which come to server bringing a 
+task is a nfs-nobody for server
+The user is other for server [and if we give all permission to other than all can modify
+this is a drawback]
+#chmod 757 /nfs/ -------------giving permission to other
+#exportfs -r
+#ls -ld /nfs
+bcz of others permission other user can also access we don't want that so
+#chmod 755 /nfs/ ------------so that other than client nobody can make changes
+
+vi /etc/exports
+/nfs  *(rw,no_root_squash)
+:wq
+
+OR
+/nfs  IPofClient(rw,no_root_squash)
+:wq
+#exportfs -r
+#ls -ld /nfs
+no_root_squash : to give root power to the client so that it can work
+.....................................................
+Client side:
+
+#mkdir ll      now client can update
+#ls -ld /nfs
+o/p root root ----------------------------no_root_sqash work with root power
+
+If we don't make changes permanent than it will be unmount on reboot
+To make changes permanent: [entry on client side
+# vi /etc/fstab
+172.31.45.242:/nfs /mnt/nfs/   nfs	_netdev 0 0
+:wq
+172.31.45.242-server ip
+#umount /mnt/nfs/
+Error will come if you r inside that directory
+#cd ..
+#umount mnt/nfs/
+#mount -a --------------- to check entry are done correct [always do before reboot]
+#df -hT
+netdev -- telling that system should not mount when it is getting up bcz at that time it will 
+not be having the ip , it will get ip through network so mount at last
+
+Task: Make partition and share with client
+We can also share existing directory
+
+..........................................................................................................
+NTFS XFS --- can mount disk on the system on which they are attached
+
+NFS --- we can mount over the n/w where that drive is not present
+
+movies on disk : share it over n/w
+all can play it using their media player
+
+GFS = Google file system 
+
+
+
+# ls -l                                                                                                     
+total 0                                                                                                                               
+drwxr-xr-x 2 root      root      6 Jun 25 05:38 cat
+drwxr-xr-x 2 nfsnobody nfsnobody 6 Jun 25 05:34 kk
+drwxr-xr-x 2 root      root      6 Jun 25 05:00 tt
