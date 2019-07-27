@@ -1,0 +1,41 @@
+Automount NFS share in Linux using autofs
+
+Autofs is a service in Linux like operating system which automatically mounts the file system and remote shares when it is accessed. Main advantage of autofs is that you don’t need to mount file system at all time, file system is only mounted when it is in demand.
+
+Autofs service reads two files Master map file ( /etc/auto.master ) and a map file like /etc/auto.misc or /etc/auto.xxxx.
+
+Step:1  Install autofs package.
+Install the autofs package using below yum command if it is not installed.
+
+[root@linuxtechi ~]# rpm -q autofs
+package autofs is not installed
+[root@linuxtechi ~]# yum install autofs
+Step:2 Edit the Master map file (/etc/auto.master )
+[root@linuxtechi ~]# vi /etc/auto.master
+/dbstuff  /etc/auto.nfsdb  --timeout=180
+Note : Mount point ‘/dbstuff’‘ must exist on your system. If not then create a directory ‘mkdir /dbstuff‘. NFS Share will automatically umount after 180 seconds or 3 minutes if don’t perform any action on the share.
+
+Step:2 Create a map file ‘/etc/auto.nfsdb’
+Create a map file and add the following line.
+
+[root@linuxtechi ~]# vi /etc/auto.nfsdb
+db_backup  -fstype=nfs,rw,soft,intr  192.168.1.21:/db_backup
+Save and exit the file.
+
+Where :
+
+db_backup is a mount point.
+-fstype=nfs is the file system type & ‘rw,soft,intr’ are mount options.
+‘192.168.1.21:/db_backup’ is nfs share location.
+
+Step:3 Start the auotfs service.
+[root@linuxtechi ~]# systemctl start autofs.service
+[root@linuxtechi ~]# systemctl enable autofs.service
+ln -s '/usr/lib/systemd/system/autofs.service' '/etc/systemd/system/multi-user.target.wants/autofs.service'
+[root@linuxtechi ~]#
+
+Step:3 Now try to access the mount point.
+Mount point of nfs share will be ‘/dbstuff/db_backup’. When we try access the mount point then autofs service will mount nfs share automatically.
+nfs-mount-autofs
+
+#cd /dbstuff/db_backup/ ; ls
