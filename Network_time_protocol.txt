@@ -1,0 +1,37 @@
+Network Time Protocol:
+
+Graphically>Date and Time
+CLI:
+
+#yum install chrony
+#rpm -qc chrony  ---to see configuration files
+/etc/chrony.conf
+ 
+# systemctl status chronyd.service -l
+vi /etc/chrony.conf
+pool poolname --- comment and write
+server adhoc.example.com
+#### adhoc.example.com[192.168.10.254]=server name
+:wq
+# systemctl restart chronyd.service
+# systemctl enable chronyd.service
+#chronyc sourcestats        --give info about server
+#chronyc sources
+#chronyc tracking
+Leap status: Normal [It should not be Not Syncronized]
+
+
+
+To work om AWS:
+server name = take from pool.ntp.org
+server server 0.in.pool.ntp.org
+
+
+If services do not start after reboot:
+vim /etc/rc.local
+systemctl restart httpd
+systemctl restart chronyd.service
+:wq
+Write only the services that are not starting
+
+chmod +x /etc/rc.local   ----Give execution permission
