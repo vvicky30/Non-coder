@@ -1,2 +1,2 @@
 # Non-coder
-for general task
+for general purpose task 
